@@ -1,0 +1,10 @@
+Todo App
+
+-> Spesification of App
+
+    1.Users are able to add todo-lists throughout using the form.
+    2.Added todo-list will appear on the screen directly.
+    3.For each to-do list, there will be a button for delete, update, and done or not done.
+    4.These buttons will complete their related duties.
+    5.If Todo-list is empty, write "Nothing to do yet" in the secreen.
+
